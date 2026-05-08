@@ -1,0 +1,1055 @@
+BEGIN:VCALENDAR
+PRODID:-//Liferay Inc//Liferay Portal 7.2.1//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-1-8657-9669
+DTSTART:20260515T233000Z
+DTEND:20260516T030000Z
+SUMMARY:Spring Gala at the Harvard Club of New York City
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8657\,"activityAreas":""\,"legend":
+ "noregistration.png"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8
+ 7596\,"url":"https://www.harvardclub.com/group/pages/events-reservation?ev
+ entId=8657&seatingId=9669"\,"eventNo":"8621"\,"isGolfEvent":false\,"nsEven
+ tTypeName":"Excursions"\,"isAllowedGuestReservation":false\,"startTime":"M
+ ay 15\, 2026 19:30:00"\,"location":"Offsite Events"\,"endTime":"May 15\, 2
+ 026 23:00:00"\,"activityTrainer":""\,"eventDate":"May 15\, 2026 00:00:00"}
+ 
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-1-8755-9768
+DTSTART:20260526T213000Z
+DTEND:20260526T230000Z
+SUMMARY:UMASS Club Summer Soiree Prep: Dance Floor Essentials
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8755\,"activityAreas":""\,"legend":
+ "noregistration.png"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8
+ 7596\,"url":"https://www.harvardclub.com/group/pages/events-reservation?ev
+ entId=8755&seatingId=9768"\,"eventNo":"8719"\,"isGolfEvent":false\,"nsEven
+ tTypeName":"Excursions"\,"isAllowedGuestReservation":false\,"startTime":"M
+ ay 26\, 2026 17:30:00"\,"location":"Offsite Events"\,"endTime":"May 26\, 2
+ 026 19:00:00"\,"activityTrainer":""\,"eventDate":"May 26\, 2026 00:00:00"}
+ 
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-1-8756-9769
+DTSTART:20260528T220000Z
+DTEND:20260529T000000Z
+SUMMARY:UMASS Club Hansel Wine Dinner
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8756\,"activityAreas":""\,"legend":
+ "noregistration.png"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8
+ 7596\,"url":"https://www.harvardclub.com/group/pages/events-reservation?ev
+ entId=8756&seatingId=9769"\,"eventNo":"8720"\,"isGolfEvent":false\,"nsEven
+ tTypeName":"Excursions"\,"isAllowedGuestReservation":false\,"startTime":"M
+ ay 28\, 2026 18:00:00"\,"location":"Offsite Events"\,"endTime":"May 28\, 2
+ 026 20:00:00"\,"activityTrainer":""\,"eventDate":"May 28\, 2026 00:00:00"}
+ 
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-1-6702-7656
+DTSTART:20260625T233000Z
+DTEND:20260626T020000Z
+SUMMARY:A.R.T presents Black Swan
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":6702\,"activityAreas":""\,"legend":
+ "future.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\,"u
+ rl":"https://www.harvardclub.com/group/pages/events-reservation?eventId=67
+ 02&seatingId=7656"\,"eventNo":"6667"\,"isGolfEvent":false\,"nsEventTypeNam
+ e":"Excursions"\,"isAllowedGuestReservation":false\,"startTime":"Jun 25\, 
+ 2026 19:30:00"\,"location":"Offsite Events"\,"endTime":"Jun 25\, 2026 22:0
+ 0:00"\,"activityTrainer":""\,"eventDate":"Jun 25\, 2026 00:00:00"}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-1-7566-8564
+DTSTART:20260625T231000Z
+DTEND:20260626T014500Z
+SUMMARY:Red Sox vs. New York Yankees
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7566\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =7566&seatingId=8564"\,"eventNo":"7531"\,"isGolfEvent":false\,"nsEventType
+ Name":"Excursions"\,"isAllowedGuestReservation":false\,"startTime":"Jun 25
+ \, 2026 19:10:00"\,"location":"Offsite Events"\,"endTime":"Jun 25\, 2026 2
+ 1:45:00"\,"activityTrainer":""\,"eventDate":"Jun 25\, 2026 00:00:00"}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8655-9667
+DTSTART:20260508T120000Z
+DTEND:20260508T130000Z
+SUMMARY:Public Policy Book Discussion - VIRTUAL
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8655\,"activityAreas":""\,"legend":
+ "unavailable.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8759
+ 6\,"url":"https://www.harvardclub.com/group/pages/events-reservation?event
+ Id=8655&seatingId=9667"\,"eventNo":"8619"\,"isGolfEvent":false\,"nsEventTy
+ peName":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime
+ ":"May 08\, 2026 08:00:00"\,"location":"Virtual Events"\,"endTime":"May 08
+ \, 2026 09:00:00"\,"activityTrainer":""\,"eventDate":"May 08\, 2026 00:00:
+ 00"}
+LOCATION:Virtual Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8718-9731
+DTSTART:20260508T164500Z
+DTEND:20260508T190000Z
+SUMMARY:Shuttle to Symphony - 12:45pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8718\,"activityAreas":""\,"legend":
+ "unavailable.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8759
+ 6\,"url":"https://www.harvardclub.com/group/pages/events-reservation?event
+ Id=8718&seatingId=9731"\,"eventNo":"8682"\,"isGolfEvent":false\,"nsEventTy
+ peName":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime
+ ":"May 08\, 2026 12:45:00"\,"location":"Offsite Events"\,"endTime":"May 08
+ \, 2026 15:00:00"\,"activityTrainer":""\,"eventDate":"May 08\, 2026 00:00:
+ 00"}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8719-9732
+DTSTART:20260508T171000Z
+DTEND:20260508T190000Z
+SUMMARY:Shuttle to Symphony - 1:10pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8719\,"activityAreas":""\,"legend":
+ "unavailable.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8759
+ 6\,"url":"https://www.harvardclub.com/group/pages/events-reservation?event
+ Id=8719&seatingId=9732"\,"eventNo":"8683"\,"isGolfEvent":false\,"nsEventTy
+ peName":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime
+ ":"May 08\, 2026 13:10:00"\,"location":"Offsite Events"\,"endTime":"May 08
+ \, 2026 15:00:00"\,"activityTrainer":""\,"eventDate":"May 08\, 2026 00:00:
+ 00"}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8720-9733
+DTSTART:20260509T231500Z
+DTEND:20260510T010000Z
+SUMMARY:Shuttle to Symphony - 7:15pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8720\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8720&seatingId=9733"\,"eventNo":"8684"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 09\, 2026 19:15:00"\,"location":"Offsite Events"\,"endTime":"May 09\,
+  2026 21:00:00"\,"activityTrainer":""\,"eventDate":"May 09\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8721-9734
+DTSTART:20260509T234000Z
+DTEND:20260510T010000Z
+SUMMARY:Shuttle to Symphony - 7:40pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8721\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8721&seatingId=9734"\,"eventNo":"8685"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 09\, 2026 19:40:00"\,"location":"Offsite Events"\,"endTime":"May 09\,
+  2026 21:00:00"\,"activityTrainer":""\,"eventDate":"May 09\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8707-9719
+DTSTART:20260511T130000Z
+DTEND:20260511T190000Z
+SUMMARY:Mind Sport Mondays
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8707\,"activityAreas":""\,"legend":
+ "noregistration.png"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8
+ 7596\,"url":"https://www.harvardclub.com/group/pages/events-reservation?ev
+ entId=8707&seatingId=9719"\,"eventNo":"8671"\,"isGolfEvent":false\,"nsEven
+ tTypeName":"All Members Event"\,"isAllowedGuestReservation":false\,"startT
+ ime":"May 11\, 2026 09:00:00"\,"location":"Gardner Room"\,"endTime":"May 1
+ 1\, 2026 15:00:00"\,"activityTrainer":""\,"eventDate":"May 11\, 2026 00:00
+ :00"}
+LOCATION:Gardner Room
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8736-9749
+DTSTART:20260511T220000Z
+DTEND:20260511T230000Z
+SUMMARY:Squash - Ladies Night
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8736\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8736&seatingId=9749"\,"eventNo":"8700"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 11\, 2026 18:00:00"\,"location":"Squash Area"\,"endTime":"May 11\, 20
+ 26 19:00:00"\,"activityTrainer":""\,"eventDate":"May 11\, 2026 00:00:00"}
+LOCATION:Squash Area
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7519-8509
+DTSTART:20260512T220000Z
+DTEND:20260513T000000Z
+SUMMARY:Inside Harvard: Fireside Chat with Dean Nonie K. Lesaux
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7519\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =7519&seatingId=8509"\,"eventNo":"7484"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 12\, 2026 18:00:00"\,"location":"Harvard Hall/Foyer"\,"endTime":"May 
+ 12\, 2026 20:00:00"\,"activityTrainer":""\,"eventDate":"May 12\, 2026 00:0
+ 0:00"}
+LOCATION:Harvard Hall/Foyer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8738-9751
+DTSTART:20260512T220000Z
+DTEND:20260512T230000Z
+SUMMARY:Squash Adult Beginners Clinic
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8738\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8738&seatingId=9751"\,"eventNo":"8702"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 12\, 2026 18:00:00"\,"location":"Squash Area"\,"endTime":"May 12\, 20
+ 26 19:00:00"\,"activityTrainer":""\,"eventDate":"May 12\, 2026 00:00:00"}
+LOCATION:Squash Area
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8704-9716
+DTSTART:20260513T213000Z
+DTEND:20260513T230000Z
+SUMMARY:Summer Sips on The Patio
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8704\,"activityAreas":""\,"legend":
+ "noregistration.png"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8
+ 7596\,"url":"https://www.harvardclub.com/group/pages/events-reservation?ev
+ entId=8704&seatingId=9716"\,"eventNo":"8668"\,"isGolfEvent":false\,"nsEven
+ tTypeName":"All Members Event"\,"isAllowedGuestReservation":false\,"startT
+ ime":"May 13\, 2026 17:30:00"\,"location":"Bqt Veritas Restaurant"\,"endTi
+ me":"May 13\, 2026 19:00:00"\,"activityTrainer":""\,"eventDate":"May 13\, 
+ 2026 00:00:00"}
+LOCATION:Bqt Veritas Restaurant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7765-8771
+DTSTART:20260514T233000Z
+DTEND:20260515T020000Z
+SUMMARY:Jon Batiste with The Boston Pops- Boston Symphony Orchestra
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7765\,"activityAreas":""\,"legend":
+ "waitlist.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\,
+ "url":"https://www.harvardclub.com/group/pages/events-reservation?eventId=
+ 7765&seatingId=8771"\,"eventNo":"7730"\,"isGolfEvent":false\,"nsEventTypeN
+ ame":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":"
+ May 14\, 2026 19:30:00"\,"location":"Offsite Events"\,"endTime":"May 14\, 
+ 2026 22:00:00"\,"activityTrainer":""\,"eventDate":"May 14\, 2026 00:00:00"
+ }
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8722-9735
+DTSTART:20260514T224500Z
+DTEND:20260515T010000Z
+SUMMARY:Shuttle to Symphony - 6:45pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8722\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8722&seatingId=9735"\,"eventNo":"8686"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 14\, 2026 18:45:00"\,"location":"Offsite Events"\,"endTime":"May 14\,
+  2026 21:00:00"\,"activityTrainer":""\,"eventDate":"May 14\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8723-9736
+DTSTART:20260514T231000Z
+DTEND:20260515T010000Z
+SUMMARY:Shuttle to Symphony - 7:10pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8723\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8723&seatingId=9736"\,"eventNo":"8687"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 14\, 2026 19:10:00"\,"location":"Offsite Events"\,"endTime":"May 14\,
+  2026 21:00:00"\,"activityTrainer":""\,"eventDate":"May 14\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8724-9737
+DTSTART:20260515T164500Z
+DTEND:20260515T190000Z
+SUMMARY:Shuttle to Symphony - 12:45pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8724\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8724&seatingId=9737"\,"eventNo":"8688"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 15\, 2026 12:45:00"\,"location":"Offsite Events"\,"endTime":"May 15\,
+  2026 15:00:00"\,"activityTrainer":""\,"eventDate":"May 15\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8725-9738
+DTSTART:20260515T171000Z
+DTEND:20260515T190000Z
+SUMMARY:Shuttle to Symphony - 1:10pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8725\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8725&seatingId=9738"\,"eventNo":"8689"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 15\, 2026 13:10:00"\,"location":"Offsite Events"\,"endTime":"May 15\,
+  2026 15:00:00"\,"activityTrainer":""\,"eventDate":"May 15\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8726-9739
+DTSTART:20260516T231500Z
+DTEND:20260517T010000Z
+SUMMARY:Shuttle to Symphony - 7:15pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8726\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8726&seatingId=9739"\,"eventNo":"8690"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 16\, 2026 19:15:00"\,"location":"Offsite Events"\,"endTime":"May 16\,
+  2026 21:00:00"\,"activityTrainer":""\,"eventDate":"May 16\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7768-8774
+DTSTART:20260518T220000Z
+DTEND:20260518T233000Z
+SUMMARY:In-Person Book Club
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7768\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =7768&seatingId=8774"\,"eventNo":"7733"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 18\, 2026 18:00:00"\,"location":"Aesculapian Room"\,"endTime":"May 18
+ \, 2026 19:30:00"\,"activityTrainer":""\,"eventDate":"May 18\, 2026 00:00:
+ 00"}
+LOCATION:Aesculapian Room
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8708-9720
+DTSTART:20260518T130000Z
+DTEND:20260518T190000Z
+SUMMARY:Mind Sport Mondays
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8708\,"activityAreas":""\,"legend":
+ "noregistration.png"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8
+ 7596\,"url":"https://www.harvardclub.com/group/pages/events-reservation?ev
+ entId=8708&seatingId=9720"\,"eventNo":"8672"\,"isGolfEvent":false\,"nsEven
+ tTypeName":"All Members Event"\,"isAllowedGuestReservation":false\,"startT
+ ime":"May 18\, 2026 09:00:00"\,"location":"Gardner Room"\,"endTime":"May 1
+ 8\, 2026 15:00:00"\,"activityTrainer":""\,"eventDate":"May 18\, 2026 00:00
+ :00"}
+LOCATION:Gardner Room
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8737-9750
+DTSTART:20260518T220000Z
+DTEND:20260518T230000Z
+SUMMARY:Squash - Ladies Night
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8737\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8737&seatingId=9750"\,"eventNo":"8701"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 18\, 2026 18:00:00"\,"location":"Squash Area"\,"endTime":"May 18\, 20
+ 26 19:00:00"\,"activityTrainer":""\,"eventDate":"May 18\, 2026 00:00:00"}
+LOCATION:Squash Area
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8739-9752
+DTSTART:20260519T220000Z
+DTEND:20260519T230000Z
+SUMMARY:Squash Adult Beginners Clinic
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8739\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8739&seatingId=9752"\,"eventNo":"8703"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 19\, 2026 18:00:00"\,"location":"Squash Area"\,"endTime":"May 19\, 20
+ 26 19:00:00"\,"activityTrainer":""\,"eventDate":"May 19\, 2026 00:00:00"}
+LOCATION:Squash Area
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7773-8779
+DTSTART:20260520T220000Z
+DTEND:20260521T000000Z
+SUMMARY:Whiplash Reshaping American Health Care with David Blumenthal AB'70
+  MD'75 MPP'75
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7773\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =7773&seatingId=8779"\,"eventNo":"7738"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 20\, 2026 18:00:00"\,"location":"Massachusetts Room/Foyer"\,"endTime"
+ :"May 20\, 2026 20:00:00"\,"activityTrainer":""\,"eventDate":"May 20\, 202
+ 6 00:00:00"}
+LOCATION:Massachusetts Room/Foyer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8705-9717
+DTSTART:20260520T213000Z
+DTEND:20260520T230000Z
+SUMMARY:Summer Sips on The Patio
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8705\,"activityAreas":""\,"legend":
+ "noregistration.png"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8
+ 7596\,"url":"https://www.harvardclub.com/group/pages/events-reservation?ev
+ entId=8705&seatingId=9717"\,"eventNo":"8669"\,"isGolfEvent":false\,"nsEven
+ tTypeName":"All Members Event"\,"isAllowedGuestReservation":false\,"startT
+ ime":"May 20\, 2026 17:30:00"\,"location":"Bqt Veritas Restaurant"\,"endTi
+ me":"May 20\, 2026 19:00:00"\,"activityTrainer":""\,"eventDate":"May 20\, 
+ 2026 00:00:00"}
+LOCATION:Bqt Veritas Restaurant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7525-8515
+DTSTART:20260521T220000Z
+DTEND:20260522T003000Z
+SUMMARY:HCB Third Thursday Team Trivia
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7525\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =7525&seatingId=8515"\,"eventNo":"7490"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 21\, 2026 18:00:00"\,"location":"Bqt Club Pub"\,"endTime":"May 21\, 2
+ 026 20:30:00"\,"activityTrainer":""\,"eventDate":"May 21\, 2026 00:00:00"}
+ 
+LOCATION:Bqt Club Pub
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8711-9724
+DTSTART:20260521T220000Z
+DTEND:20260522T000000Z
+SUMMARY:MIT Dinner
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8711\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8711&seatingId=9724"\,"eventNo":"8675"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 21\, 2026 18:00:00"\,"location":"Presidents Room"\,"endTime":"May 21\
+ , 2026 20:00:00"\,"activityTrainer":""\,"eventDate":"May 21\, 2026 00:00:0
+ 0"}
+LOCATION:Presidents Room
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8743-9756
+DTSTART:20260521T224500Z
+DTEND:20260522T010000Z
+SUMMARY:Shuttle to Symphony - 6:45pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8743\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8743&seatingId=9756"\,"eventNo":"8707"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 21\, 2026 18:45:00"\,"location":"Offsite Events"\,"endTime":"May 21\,
+  2026 21:00:00"\,"activityTrainer":""\,"eventDate":"May 21\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8744-9757
+DTSTART:20260521T231000Z
+DTEND:20260522T010000Z
+SUMMARY:Shuttle to Symphony - 7:10pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8744\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8744&seatingId=9757"\,"eventNo":"8708"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 21\, 2026 19:10:00"\,"location":"Offsite Events"\,"endTime":"May 21\,
+  2026 21:00:00"\,"activityTrainer":""\,"eventDate":"May 21\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8745-9758
+DTSTART:20260522T164500Z
+DTEND:20260522T190000Z
+SUMMARY:Shuttle to Symphony - 12:45pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8745\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8745&seatingId=9758"\,"eventNo":"8709"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 22\, 2026 12:45:00"\,"location":"Offsite Events"\,"endTime":"May 22\,
+  2026 15:00:00"\,"activityTrainer":""\,"eventDate":"May 22\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8746-9759
+DTSTART:20260522T171000Z
+DTEND:20260522T190000Z
+SUMMARY:Shuttle to Symphony - 1:10pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8746\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8746&seatingId=9759"\,"eventNo":"8710"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 22\, 2026 13:10:00"\,"location":"Offsite Events"\,"endTime":"May 22\,
+  2026 15:00:00"\,"activityTrainer":""\,"eventDate":"May 22\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8747-9760
+DTSTART:20260523T231500Z
+DTEND:20260524T010000Z
+SUMMARY:Shuttle to Symphony - 7:15pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8747\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8747&seatingId=9760"\,"eventNo":"8711"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 23\, 2026 19:15:00"\,"location":"Offsite Events"\,"endTime":"May 23\,
+  2026 21:00:00"\,"activityTrainer":""\,"eventDate":"May 23\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8748-9761
+DTSTART:20260523T234000Z
+DTEND:20260524T010000Z
+SUMMARY:Shuttle to Symphony - 7:40pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8748\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8748&seatingId=9761"\,"eventNo":"8712"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 23\, 2026 19:40:00"\,"location":"Offsite Events"\,"endTime":"May 23\,
+  2026 21:00:00"\,"activityTrainer":""\,"eventDate":"May 23\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8706-9718
+DTSTART:20260527T213000Z
+DTEND:20260527T230000Z
+SUMMARY:Summer Sips on The Patio
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8706\,"activityAreas":""\,"legend":
+ "noregistration.png"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8
+ 7596\,"url":"https://www.harvardclub.com/group/pages/events-reservation?ev
+ entId=8706&seatingId=9718"\,"eventNo":"8670"\,"isGolfEvent":false\,"nsEven
+ tTypeName":"All Members Event"\,"isAllowedGuestReservation":false\,"startT
+ ime":"May 27\, 2026 17:30:00"\,"location":"Bqt Veritas Restaurant"\,"endTi
+ me":"May 27\, 2026 19:00:00"\,"activityTrainer":""\,"eventDate":"May 27\, 
+ 2026 00:00:00"}
+LOCATION:Bqt Veritas Restaurant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8749-9762
+DTSTART:20260528T224500Z
+DTEND:20260529T010000Z
+SUMMARY:Shuttle to Symphony - 6:45pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8749\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8749&seatingId=9762"\,"eventNo":"8713"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 28\, 2026 18:45:00"\,"location":"Offsite Events"\,"endTime":"May 28\,
+  2026 21:00:00"\,"activityTrainer":""\,"eventDate":"May 28\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8750-9763
+DTSTART:20260528T231000Z
+DTEND:20260529T010000Z
+SUMMARY:Shuttle to Symphony - 7:10pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8750\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8750&seatingId=9763"\,"eventNo":"8714"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 28\, 2026 19:10:00"\,"location":"Offsite Events"\,"endTime":"May 28\,
+  2026 21:00:00"\,"activityTrainer":""\,"eventDate":"May 28\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8751-9764
+DTSTART:20260529T164500Z
+DTEND:20260529T190000Z
+SUMMARY:Shuttle to Symphony - 12:45pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8751\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8751&seatingId=9764"\,"eventNo":"8715"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 29\, 2026 12:45:00"\,"location":"Offsite Events"\,"endTime":"May 29\,
+  2026 15:00:00"\,"activityTrainer":""\,"eventDate":"May 29\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8752-9765
+DTSTART:20260529T171000Z
+DTEND:20260529T190000Z
+SUMMARY:Shuttle to Symphony - 1:10pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8752\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8752&seatingId=9765"\,"eventNo":"8716"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 29\, 2026 13:10:00"\,"location":"Offsite Events"\,"endTime":"May 29\,
+  2026 15:00:00"\,"activityTrainer":""\,"eventDate":"May 29\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8753-9766
+DTSTART:20260530T231500Z
+DTEND:20260531T010000Z
+SUMMARY:Shuttle to Symphony - 7:15pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8753\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8753&seatingId=9766"\,"eventNo":"8717"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 30\, 2026 19:15:00"\,"location":"Offsite Events"\,"endTime":"May 30\,
+  2026 21:00:00"\,"activityTrainer":""\,"eventDate":"May 30\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8754-9767
+DTSTART:20260530T234000Z
+DTEND:20260531T010000Z
+SUMMARY:Shuttle to Symphony - 7:40pm
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8754\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8754&seatingId=9767"\,"eventNo":"8718"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 30\, 2026 19:40:00"\,"location":"Offsite Events"\,"endTime":"May 30\,
+  2026 21:00:00"\,"activityTrainer":""\,"eventDate":"May 30\, 2026 00:00:00
+ "}
+LOCATION:Offsite Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8729-9742
+DTSTART:20260603T213000Z
+DTEND:20260603T230000Z
+SUMMARY:Summer Sips on The Patio
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8729\,"activityAreas":""\,"legend":
+ "noregistration.png"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8
+ 7596\,"url":"https://www.harvardclub.com/group/pages/events-reservation?ev
+ entId=8729&seatingId=9742"\,"eventNo":"8693"\,"isGolfEvent":false\,"nsEven
+ tTypeName":"All Members Event"\,"isAllowedGuestReservation":false\,"startT
+ ime":"Jun 03\, 2026 17:30:00"\,"location":"Bqt Veritas Restaurant"\,"endTi
+ me":"Jun 03\, 2026 19:00:00"\,"activityTrainer":""\,"eventDate":"Jun 03\, 
+ 2026 00:00:00"}
+LOCATION:Bqt Veritas Restaurant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8733-9746
+DTSTART:20260605T200000Z
+DTEND:20260606T010000Z
+SUMMARY:First Friday Game Night
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8733\,"activityAreas":""\,"legend":
+ "noregistration.png"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8
+ 7596\,"url":"https://www.harvardclub.com/group/pages/events-reservation?ev
+ entId=8733&seatingId=9746"\,"eventNo":"8697"\,"isGolfEvent":false\,"nsEven
+ tTypeName":"All Members Event"\,"isAllowedGuestReservation":false\,"startT
+ ime":"Jun 05\, 2026 16:00:00"\,"location":"Bqt Club Pub"\,"endTime":"Jun 0
+ 5\, 2026 21:00:00"\,"activityTrainer":""\,"eventDate":"Jun 05\, 2026 00:00
+ :00"}
+LOCATION:Bqt Club Pub
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7709-8715
+DTSTART:20260609T213000Z
+DTEND:20260609T233000Z
+SUMMARY:Marker Drawing Father's Day Gift with Artist Eli Portman
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7709\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =7709&seatingId=8715"\,"eventNo":"7674"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "Jun 09\, 2026 17:30:00"\,"location":"Aesculapian Room"\,"endTime":"Jun 09
+ \, 2026 19:30:00"\,"activityTrainer":""\,"eventDate":"Jun 09\, 2026 00:00:
+ 00"}
+LOCATION:Aesculapian Room
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7661-8665
+DTSTART:20260610T220000Z
+DTEND:20260611T000000Z
+SUMMARY:Trudeau & Doonesbury: A Biography by Joshua Kendall
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7661\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =7661&seatingId=8665"\,"eventNo":"7626"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "Jun 10\, 2026 18:00:00"\,"location":"Aesculapian Room"\,"endTime":"Jun 10
+ \, 2026 20:00:00"\,"activityTrainer":""\,"eventDate":"Jun 10\, 2026 00:00:
+ 00"}
+LOCATION:Aesculapian Room
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8732-9745
+DTSTART:20260610T213000Z
+DTEND:20260610T230000Z
+SUMMARY:Summer Sips on The Patio
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8732\,"activityAreas":""\,"legend":
+ "noregistration.png"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8
+ 7596\,"url":"https://www.harvardclub.com/group/pages/events-reservation?ev
+ entId=8732&seatingId=9745"\,"eventNo":"8696"\,"isGolfEvent":false\,"nsEven
+ tTypeName":"All Members Event"\,"isAllowedGuestReservation":false\,"startT
+ ime":"Jun 10\, 2026 17:30:00"\,"location":"Bqt Veritas Restaurant"\,"endTi
+ me":"Jun 10\, 2026 19:00:00"\,"activityTrainer":""\,"eventDate":"Jun 10\, 
+ 2026 00:00:00"}
+LOCATION:Bqt Veritas Restaurant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8656-9668
+DTSTART:20260612T120000Z
+DTEND:20260612T130000Z
+SUMMARY:Public Policy Book Discussion - VIRTUAL
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8656\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8656&seatingId=9668"\,"eventNo":"8620"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "Jun 12\, 2026 08:00:00"\,"location":"Virtual Events"\,"endTime":"Jun 12\,
+  2026 09:00:00"\,"activityTrainer":""\,"eventDate":"Jun 12\, 2026 00:00:00
+ "}
+LOCATION:Virtual Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8730-9743
+DTSTART:20260617T213000Z
+DTEND:20260617T230000Z
+SUMMARY:Summer Sips on The Patio
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8730\,"activityAreas":""\,"legend":
+ "noregistration.png"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8
+ 7596\,"url":"https://www.harvardclub.com/group/pages/events-reservation?ev
+ entId=8730&seatingId=9743"\,"eventNo":"8694"\,"isGolfEvent":false\,"nsEven
+ tTypeName":"All Members Event"\,"isAllowedGuestReservation":false\,"startT
+ ime":"Jun 17\, 2026 17:30:00"\,"location":"Bqt Veritas Restaurant"\,"endTi
+ me":"Jun 17\, 2026 19:00:00"\,"activityTrainer":""\,"eventDate":"Jun 17\, 
+ 2026 00:00:00"}
+LOCATION:Bqt Veritas Restaurant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7526-8516
+DTSTART:20260618T220000Z
+DTEND:20260619T003000Z
+SUMMARY:HCB Third Thursday Team Trivia
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7526\,"activityAreas":""\,"legend":
+ "future.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\,"u
+ rl":"https://www.harvardclub.com/group/pages/events-reservation?eventId=75
+ 26&seatingId=8516"\,"eventNo":"7491"\,"isGolfEvent":false\,"nsEventTypeNam
+ e":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":"Ju
+ n 18\, 2026 18:00:00"\,"location":"Bqt Club Pub"\,"endTime":"Jun 18\, 2026
+  20:30:00"\,"activityTrainer":""\,"eventDate":"Jun 18\, 2026 00:00:00"}
+LOCATION:Bqt Club Pub
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8731-9744
+DTSTART:20260624T213000Z
+DTEND:20260624T230000Z
+SUMMARY:Summer Sips on The Patio
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8731\,"activityAreas":""\,"legend":
+ "noregistration.png"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8
+ 7596\,"url":"https://www.harvardclub.com/group/pages/events-reservation?ev
+ entId=8731&seatingId=9744"\,"eventNo":"8695"\,"isGolfEvent":false\,"nsEven
+ tTypeName":"All Members Event"\,"isAllowedGuestReservation":false\,"startT
+ ime":"Jun 24\, 2026 17:30:00"\,"location":"Bqt Veritas Restaurant"\,"endTi
+ me":"Jun 24\, 2026 19:00:00"\,"activityTrainer":""\,"eventDate":"Jun 24\, 
+ 2026 00:00:00"}
+LOCATION:Bqt Veritas Restaurant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8710-9723
+DTSTART:20260509T134500Z
+DTEND:20260509T141500Z
+SUMMARY:Children's Music Class - 3mos to 3yrs. Old
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8710\,"activityAreas":""\,"legend":
+ "unavailable.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8759
+ 6\,"url":"https://www.harvardclub.com/group/pages/events-reservation?event
+ Id=8710&seatingId=9723"\,"eventNo":"8674"\,"isGolfEvent":false\,"nsEventTy
+ peName":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime
+ ":"May 09\, 2026 09:45:00"\,"location":"Family Activity Room"\,"endTime":"
+ May 09\, 2026 10:15:00"\,"activityTrainer":""\,"eventDate":"May 09\, 2026 
+ 00:00:00"}
+LOCATION:Family Activity Room
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-8710-9722
+DTSTART:20260509T143000Z
+DTEND:20260509T150000Z
+SUMMARY:Children's Music Class - 3mos to 3yrs. Old
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8710\,"activityAreas":""\,"legend":
+ "unavailable.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8759
+ 6\,"url":"https://www.harvardclub.com/group/pages/events-reservation?event
+ Id=8710&seatingId=9722"\,"eventNo":"8674"\,"isGolfEvent":false\,"nsEventTy
+ peName":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime
+ ":"May 09\, 2026 10:30:00"\,"location":"Family Activity Room"\,"endTime":"
+ May 09\, 2026 11:00:00"\,"activityTrainer":""\,"eventDate":"May 09\, 2026 
+ 00:00:00"}
+LOCATION:Family Activity Room
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7572-8571
+DTSTART:20260510T140000Z
+DTEND:20260510T153000Z
+SUMMARY:Mother's Day Brunch Buffet
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7572\,"activityAreas":""\,"legend":
+ "unavailable.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8759
+ 6\,"url":"https://www.harvardclub.com/group/pages/events-reservation?event
+ Id=7572&seatingId=8571"\,"eventNo":"7537"\,"isGolfEvent":false\,"nsEventTy
+ peName":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime
+ ":"May 10\, 2026 10:00:00"\,"location":"Harvard Hall/Foyer"\,"endTime":"Ma
+ y 10\, 2026 11:30:00"\,"activityTrainer":""\,"eventDate":"May 10\, 2026 00
+ :00:00"}
+LOCATION:Harvard Hall/Foyer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7572-8572
+DTSTART:20260510T143000Z
+DTEND:20260510T160000Z
+SUMMARY:Mother's Day Brunch Buffet
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7572\,"activityAreas":""\,"legend":
+ "unavailable.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8759
+ 6\,"url":"https://www.harvardclub.com/group/pages/events-reservation?event
+ Id=7572&seatingId=8572"\,"eventNo":"7537"\,"isGolfEvent":false\,"nsEventTy
+ peName":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime
+ ":"May 10\, 2026 10:30:00"\,"location":"Harvard Hall/Foyer"\,"endTime":"Ma
+ y 10\, 2026 12:00:00"\,"activityTrainer":""\,"eventDate":"May 10\, 2026 00
+ :00:00"}
+LOCATION:Harvard Hall/Foyer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7572-8782
+DTSTART:20260510T150000Z
+DTEND:20260510T163000Z
+SUMMARY:Mother's Day Brunch Buffet
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7572\,"activityAreas":""\,"legend":
+ "unavailable.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8759
+ 6\,"url":"https://www.harvardclub.com/group/pages/events-reservation?event
+ Id=7572&seatingId=8782"\,"eventNo":"7537"\,"isGolfEvent":false\,"nsEventTy
+ peName":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime
+ ":"May 10\, 2026 11:00:00"\,"location":"Harvard Hall/Foyer"\,"endTime":"Ma
+ y 10\, 2026 12:30:00"\,"activityTrainer":""\,"eventDate":"May 10\, 2026 00
+ :00:00"}
+LOCATION:Harvard Hall/Foyer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7572-8573
+DTSTART:20260510T170000Z
+DTEND:20260510T183000Z
+SUMMARY:Mother's Day Brunch Buffet
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7572\,"activityAreas":""\,"legend":
+ "unavailable.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8759
+ 6\,"url":"https://www.harvardclub.com/group/pages/events-reservation?event
+ Id=7572&seatingId=8573"\,"eventNo":"7537"\,"isGolfEvent":false\,"nsEventTy
+ peName":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime
+ ":"May 10\, 2026 13:00:00"\,"location":"Harvard Hall/Foyer"\,"endTime":"Ma
+ y 10\, 2026 14:30:00"\,"activityTrainer":""\,"eventDate":"May 10\, 2026 00
+ :00:00"}
+LOCATION:Harvard Hall/Foyer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7572-8574
+DTSTART:20260510T173000Z
+DTEND:20260510T190000Z
+SUMMARY:Mother's Day Brunch Buffet
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7572\,"activityAreas":""\,"legend":
+ "unavailable.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8759
+ 6\,"url":"https://www.harvardclub.com/group/pages/events-reservation?event
+ Id=7572&seatingId=8574"\,"eventNo":"7537"\,"isGolfEvent":false\,"nsEventTy
+ peName":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime
+ ":"May 10\, 2026 13:30:00"\,"location":"Harvard Hall/Foyer"\,"endTime":"Ma
+ y 10\, 2026 15:00:00"\,"activityTrainer":""\,"eventDate":"May 10\, 2026 00
+ :00:00"}
+LOCATION:Harvard Hall/Foyer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7776-8784
+DTSTART:20260510T160000Z
+DTEND:20260510T173000Z
+SUMMARY:Mother's Day A La Carte Brunch in Veritas Restaurant
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7776\,"activityAreas":""\,"legend":
+ "unavailable.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8759
+ 6\,"url":"https://www.harvardclub.com/group/pages/events-reservation?event
+ Id=7776&seatingId=8784"\,"eventNo":"7741"\,"isGolfEvent":false\,"nsEventTy
+ peName":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime
+ ":"May 10\, 2026 12:00:00"\,"location":"Bqt Veritas Restaurant"\,"endTime"
+ :"May 10\, 2026 13:30:00"\,"activityTrainer":""\,"eventDate":"May 10\, 202
+ 6 00:00:00"}
+LOCATION:Bqt Veritas Restaurant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7776-8785
+DTSTART:20260510T163000Z
+DTEND:20260510T180000Z
+SUMMARY:Mother's Day A La Carte Brunch in Veritas Restaurant
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7776\,"activityAreas":""\,"legend":
+ "unavailable.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8759
+ 6\,"url":"https://www.harvardclub.com/group/pages/events-reservation?event
+ Id=7776&seatingId=8785"\,"eventNo":"7741"\,"isGolfEvent":false\,"nsEventTy
+ peName":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime
+ ":"May 10\, 2026 12:30:00"\,"location":"Bqt Veritas Restaurant"\,"endTime"
+ :"May 10\, 2026 14:00:00"\,"activityTrainer":""\,"eventDate":"May 10\, 202
+ 6 00:00:00"}
+LOCATION:Bqt Veritas Restaurant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7776-8786
+DTSTART:20260510T170000Z
+DTEND:20260510T183000Z
+SUMMARY:Mother's Day A La Carte Brunch in Veritas Restaurant
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7776\,"activityAreas":""\,"legend":
+ "unavailable.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":8759
+ 6\,"url":"https://www.harvardclub.com/group/pages/events-reservation?event
+ Id=7776&seatingId=8786"\,"eventNo":"7741"\,"isGolfEvent":false\,"nsEventTy
+ peName":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime
+ ":"May 10\, 2026 13:00:00"\,"location":"Bqt Veritas Restaurant"\,"endTime"
+ :"May 10\, 2026 14:30:00"\,"activityTrainer":""\,"eventDate":"May 10\, 202
+ 6 00:00:00"}
+LOCATION:Bqt Veritas Restaurant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7516-8503
+DTSTART:20260528T213000Z
+DTEND:20260528T230000Z
+SUMMARY:Class of 2026 Harvard Commencement Buffet
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7516\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =7516&seatingId=8503"\,"eventNo":"7481"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 28\, 2026 17:30:00"\,"location":"Harvard Hall/Foyer"\,"endTime":"May 
+ 28\, 2026 19:00:00"\,"activityTrainer":""\,"eventDate":"May 28\, 2026 00:0
+ 0:00"}
+LOCATION:Harvard Hall/Foyer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7516-8504
+DTSTART:20260528T220000Z
+DTEND:20260528T233000Z
+SUMMARY:Class of 2026 Harvard Commencement Buffet
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7516\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =7516&seatingId=8504"\,"eventNo":"7481"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 28\, 2026 18:00:00"\,"location":"Harvard Hall/Foyer"\,"endTime":"May 
+ 28\, 2026 19:30:00"\,"activityTrainer":""\,"eventDate":"May 28\, 2026 00:0
+ 0:00"}
+LOCATION:Harvard Hall/Foyer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7516-8505
+DTSTART:20260529T000000Z
+DTEND:20260529T013000Z
+SUMMARY:Class of 2026 Harvard Commencement Buffet
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7516\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =7516&seatingId=8505"\,"eventNo":"7481"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 28\, 2026 20:00:00"\,"location":"Harvard Hall/Foyer"\,"endTime":"May 
+ 28\, 2026 21:30:00"\,"activityTrainer":""\,"eventDate":"May 28\, 2026 00:0
+ 0:00"}
+LOCATION:Harvard Hall/Foyer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-4-7516-8506
+DTSTART:20260529T003000Z
+DTEND:20260529T020000Z
+SUMMARY:Class of 2026 Harvard Commencement Buffet
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":7516\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =7516&seatingId=8506"\,"eventNo":"7481"\,"isGolfEvent":false\,"nsEventType
+ Name":"All Members Event"\,"isAllowedGuestReservation":false\,"startTime":
+ "May 28\, 2026 20:30:00"\,"location":"Harvard Hall/Foyer"\,"endTime":"May 
+ 28\, 2026 22:00:00"\,"activityTrainer":""\,"eventDate":"May 28\, 2026 00:0
+ 0:00"}
+LOCATION:Harvard Hall/Foyer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200008Z
+UID:events-6-8709-9721
+DTSTART:20260515T160000Z
+DTEND:20260515T170000Z
+SUMMARY:Crimson Hat SIG Luncheon
+X-ALT-DESC;FMTTYPE=text/html:{"eventId":8709\,"activityAreas":""\,"legend":
+ "available.gif"\,"isSignedIn":true\,"module":"events"\,"nsMemberId":87596\
+ ,"url":"https://www.harvardclub.com/group/pages/events-reservation?eventId
+ =8709&seatingId=9721"\,"eventNo":"8673"\,"isGolfEvent":false\,"nsEventType
+ Name":"Shared Interest Groups"\,"isAllowedGuestReservation":false\,"startT
+ ime":"May 15\, 2026 12:00:00"\,"location":"Bqt Veritas Restaurant"\,"endTi
+ me":"May 15\, 2026 13:00:00"\,"activityTrainer":""\,"eventDate":"May 15\, 
+ 2026 00:00:00"}
+LOCATION:Bqt Veritas Restaurant
+END:VEVENT
+END:VCALENDAR
