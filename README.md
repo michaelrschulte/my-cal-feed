@@ -1,7 +1,7 @@
-# Harvard Club Calendar Feed
+# Michaels Calendar Feed
 
-Subscribable ICS calendar for Harvard Club of Boston events.
+Subscribable ICS calendar for events I host or recommend.
 
 Subscribe URL:
-https://raw.githubusercontent.com/michaelrschulte/my-cal-feed/main/harvard_club.ics
+webcal://mrschulte.com/cal
 
