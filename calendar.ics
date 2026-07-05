@@ -8,17 +8,7 @@ X-APPLE-CALENDAR-COLOR:#7C2629
 X-PUBLISHED-TTL:P1D
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
-UID:events-1-8771-9784
-DTSTART:20260604T213000Z
-DTEND:20260605T000000Z
-SUMMARY:⚪ UMASS Club Girls Night Out: An Evening with Jules Taylor
-LOCATION:Offsite Events
-DESCRIPTION:Registration: Not required\nType: Excursions\nEvent ID: 8771
-URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8771&seatingId=9784
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-1-8791-9808
 DTSTART:20260616T213000Z
 DTEND:20260617T000000Z
@@ -28,7 +18,7 @@ DESCRIPTION:Registration: Not required\nType: Excursions\nEvent ID: 8791
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8791&seatingId=9808
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-1-8812-9829
 DTSTART:20260621T150000Z
 DTEND:20260622T010000Z
@@ -39,7 +29,7 @@ DESCRIPTION:Registration: Not required\nType: Excursions\nEvent ID: 8812
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8812&seatingId=9829
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-1-6702-7656
 DTSTART:20260625T233000Z
 DTEND:20260626T020000Z
@@ -49,7 +39,7 @@ DESCRIPTION:Registration: Fully booked\nType: Excursions\nEvent ID: 6702
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=6702&seatingId=7656
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-1-7566-8564
 DTSTART:20260625T231000Z
 DTEND:20260626T014500Z
@@ -59,7 +49,7 @@ DESCRIPTION:Registration: Fully booked\nType: Excursions\nEvent ID: 7566
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=7566&seatingId=8564
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-1-8792-9809
 DTSTART:20260704T233000Z
 DTEND:20260705T020000Z
@@ -69,7 +59,7 @@ DESCRIPTION:Registration: Not required\nType: Excursions\nEvent ID: 8792
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8792&seatingId=9809
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-1-8763-9776
 DTSTART:20260714T223000Z
 DTEND:20260715T003000Z
@@ -79,7 +69,7 @@ DESCRIPTION:Registration: Waitlist only\nType: Excursions\nEvent ID: 8763
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8763&seatingId=9776
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-1-8773-9786
 DTSTART:20260716T213000Z
 DTEND:20260717T003000Z
@@ -89,7 +79,7 @@ DESCRIPTION:Registration: Not required\nType: Excursions\nEvent ID: 8773
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8773&seatingId=9786
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-1-8780-9793
 DTSTART:20260722T180000Z
 DTEND:20260722T213000Z
@@ -99,7 +89,7 @@ DESCRIPTION:Type: Excursions\nEvent ID: 8780
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8780&seatingId=9793
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-1-8775-9788
 DTSTART:20260724T000000Z
 DTEND:20260724T023000Z
@@ -109,7 +99,7 @@ DESCRIPTION:Registration: Open\nType: Excursions\nEvent ID: 8775
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8775&seatingId=9788
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-1-7567-8565
 DTSTART:20260725T201000Z
 DTEND:20260725T234500Z
@@ -119,7 +109,7 @@ DESCRIPTION:Registration: Open\nType: Excursions\nEvent ID: 7567
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=7567&seatingId=8565
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-1-8760-9773
 DTSTART:20260809T130000Z
 DTEND:20260810T000000Z
@@ -129,7 +119,7 @@ DESCRIPTION:Registration: Waitlist only\nType: Excursions\nEvent ID: 8760
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8760&seatingId=9773
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-1-8837-9857
 DTSTART:20260813T220000Z
 DTEND:20260814T010000Z
@@ -139,7 +129,7 @@ DESCRIPTION:Registration: Not required\nType: Excursions\nEvent ID: 8837
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8837&seatingId=9857
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-1-7568-8566
 DTSTART:20260821T231000Z
 DTEND:20260822T014500Z
@@ -149,7 +139,7 @@ DESCRIPTION:Registration: Open\nType: Excursions\nEvent ID: 7568
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=7568&seatingId=8566
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-1-8781-9794
 DTSTART:20260822T000000Z
 DTEND:20260822T020000Z
@@ -159,7 +149,7 @@ DESCRIPTION:Registration: Open\nType: Excursions\nEvent ID: 8781
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8781&seatingId=9794
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8733-9746
 DTSTART:20260605T200000Z
 DTEND:20260606T010000Z
@@ -169,7 +159,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8733
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8733&seatingId=9746
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-7709-8715
 DTSTART:20260609T213000Z
 DTEND:20260609T233000Z
@@ -179,7 +169,7 @@ DESCRIPTION:Registration: Fully booked\nType: All Members Event\nEvent ID: 7709
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=7709&seatingId=8715
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8758-9771
 DTSTART:20260609T220000Z
 DTEND:20260609T230000Z
@@ -189,7 +179,7 @@ DESCRIPTION:Registration: Fully booked\nType: All Members Event\nEvent ID: 8758
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8758&seatingId=9771
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-7661-8665
 DTSTART:20260610T220000Z
 DTEND:20260611T000000Z
@@ -199,7 +189,7 @@ DESCRIPTION:Registration: Fully booked\nType: All Members Event\nEvent ID: 7661
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=7661&seatingId=8665
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8732-9745
 DTSTART:20260610T213000Z
 DTEND:20260610T230000Z
@@ -209,7 +199,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8732
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8732&seatingId=9745
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8728-9741
 DTSTART:20260611T160000Z
 DTEND:20260611T180000Z
@@ -219,7 +209,7 @@ DESCRIPTION:Registration: Fully booked\nType: All Members Event\nEvent ID: 8728
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8728&seatingId=9741
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8769-9782
 DTSTART:20260611T143000Z
 DTEND:20260611T160000Z
@@ -230,7 +220,7 @@ DESCRIPTION:Registration: Fully booked\nType: All Members Event\nEvent ID: 8769
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8769&seatingId=9782
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8656-9668
 DTSTART:20260612T120000Z
 DTEND:20260612T130000Z
@@ -240,7 +230,7 @@ DESCRIPTION:Registration: Fully booked\nType: All Members Event\nEvent ID: 8656
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8656&seatingId=9668
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8730-9743
 DTSTART:20260617T213000Z
 DTEND:20260617T230000Z
@@ -250,7 +240,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8730
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8730&seatingId=9743
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-7526-8516
 DTSTART:20260618T220000Z
 DTEND:20260619T003000Z
@@ -260,7 +250,7 @@ DESCRIPTION:Registration: Fully booked\nType: All Members Event\nEvent ID: 7526
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=7526&seatingId=8516
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8620-9632
 DTSTART:20260618T213000Z
 DTEND:20260618T230000Z
@@ -270,7 +260,7 @@ DESCRIPTION:Registration: Fully booked\nType: All Members Event\nEvent ID: 8620
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8620&seatingId=9632
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8622-9634
 DTSTART:20260622T223000Z
 DTEND:20260623T003000Z
@@ -280,7 +270,7 @@ DESCRIPTION:Registration: Fully booked\nType: All Members Event\nEvent ID: 8622
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8622&seatingId=9634
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8731-9744
 DTSTART:20260624T213000Z
 DTEND:20260624T230000Z
@@ -290,7 +280,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8731
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8731&seatingId=9744
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8761-9774
 DTSTART:20260624T223000Z
 DTEND:20260625T000000Z
@@ -300,7 +290,7 @@ DESCRIPTION:Registration: Fully booked\nType: All Members Event\nEvent ID: 8761
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8761&seatingId=9774
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8742-9755
 DTSTART:20260625T213000Z
 DTEND:20260625T230000Z
@@ -310,7 +300,7 @@ DESCRIPTION:Registration: Fully booked\nType: All Members Event\nEvent ID: 8742
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8742&seatingId=9755
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8778-9791
 DTSTART:20260701T120000Z
 DTEND:20260702T000000Z
@@ -320,7 +310,7 @@ DESCRIPTION:Registration: Fully booked\nType: All Members Event\nEvent ID: 8778
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8778&seatingId=9791
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8785-9802
 DTSTART:20260701T213000Z
 DTEND:20260701T230000Z
@@ -330,7 +320,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8785
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8785&seatingId=9802
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8764-9777
 DTSTART:20260703T213000Z
 DTEND:20260703T230000Z
@@ -340,7 +330,7 @@ DESCRIPTION:Registration: Fully booked\nType: All Members Event\nEvent ID: 8764
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8764&seatingId=9777
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8765-9778
 DTSTART:20260704T180000Z
 DTEND:20260704T210000Z
@@ -350,7 +340,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8765
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8765&seatingId=9778
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8786-9803
 DTSTART:20260708T213000Z
 DTEND:20260708T230000Z
@@ -360,7 +350,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8786
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8786&seatingId=9803
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8790-9807
 DTSTART:20260710T120000Z
 DTEND:20260710T130000Z
@@ -370,7 +360,7 @@ DESCRIPTION:Registration: Open\nType: All Members Event\nEvent ID: 8790
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8790&seatingId=9807
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8787-9804
 DTSTART:20260715T213000Z
 DTEND:20260715T230000Z
@@ -380,7 +370,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8787
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8787&seatingId=9804
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8768-9781
 DTSTART:20260716T150000Z
 DTEND:20260716T160000Z
@@ -390,7 +380,7 @@ DESCRIPTION:Registration: Open\nType: All Members Event\nEvent ID: 8768
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8768&seatingId=9781
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8766-9779
 DTSTART:20260720T220000Z
 DTEND:20260720T233000Z
@@ -400,7 +390,7 @@ DESCRIPTION:Registration: Open\nType: All Members Event\nEvent ID: 8766
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8766&seatingId=9779
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8833-9850
 DTSTART:20260721T160000Z
 DTEND:20260721T170000Z
@@ -411,7 +401,7 @@ DESCRIPTION:Registration: Open\nType: All Members Event\nEvent ID: 8833
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8833&seatingId=9850
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8788-9805
 DTSTART:20260722T213000Z
 DTEND:20260722T230000Z
@@ -421,7 +411,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8788
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8788&seatingId=9805
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8795-9812
 DTSTART:20260722T213000Z
 DTEND:20260722T223000Z
@@ -431,7 +421,7 @@ DESCRIPTION:Registration: Open\nType: All Members Event\nEvent ID: 8795
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8795&seatingId=9812
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8796-9813
 DTSTART:20260728T213000Z
 DTEND:20260728T223000Z
@@ -441,7 +431,7 @@ DESCRIPTION:Registration: Open\nType: All Members Event\nEvent ID: 8796
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8796&seatingId=9813
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8789-9806
 DTSTART:20260729T213000Z
 DTEND:20260729T230000Z
@@ -451,7 +441,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8789
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8789&seatingId=9806
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8700-9712
 DTSTART:20260731T230000Z
 DTEND:20260801T020000Z
@@ -461,7 +451,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8700
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8700&seatingId=9712
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8798-9815
 DTSTART:20260804T213000Z
 DTEND:20260804T223000Z
@@ -471,7 +461,7 @@ DESCRIPTION:Registration: Open\nType: All Members Event\nEvent ID: 8798
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8798&seatingId=9815
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8759-9772
 DTSTART:20260805T220000Z
 DTEND:20260806T010000Z
@@ -481,7 +471,7 @@ DESCRIPTION:Registration: Open\nType: All Members Event\nEvent ID: 8759
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8759&seatingId=9772
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8817-9834
 DTSTART:20260805T213000Z
 DTEND:20260805T230000Z
@@ -491,7 +481,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8817
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8817&seatingId=9834
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8800-9817
 DTSTART:20260812T213000Z
 DTEND:20260812T223000Z
@@ -501,7 +491,7 @@ DESCRIPTION:Registration: Open\nType: All Members Event\nEvent ID: 8800
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8800&seatingId=9817
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8818-9835
 DTSTART:20260812T213000Z
 DTEND:20260812T230000Z
@@ -511,7 +501,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8818
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8818&seatingId=9835
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8799-9816
 DTSTART:20260818T213000Z
 DTEND:20260818T223000Z
@@ -521,7 +511,7 @@ DESCRIPTION:Registration: Open\nType: All Members Event\nEvent ID: 8799
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8799&seatingId=9816
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8819-9836
 DTSTART:20260819T213000Z
 DTEND:20260819T230000Z
@@ -531,7 +521,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8819
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8819&seatingId=9836
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8779-9792
 DTSTART:20260825T120000Z
 DTEND:20260826T000000Z
@@ -541,7 +531,7 @@ DESCRIPTION:Registration: Not required\nType: All Members Event\nEvent ID: 8779
 URL:https://www.harvardclub.com/group/pages/events-reservation?eventId=8779&seatingId=9792
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T144359Z
+DTSTAMP:20260705T145114Z
 UID:events-4-8820-9837
 DTSTART:20260826T213000Z
 DTEND:20260826T230000Z
